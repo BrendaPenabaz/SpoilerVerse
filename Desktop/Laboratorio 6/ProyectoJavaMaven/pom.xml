@@ -8,8 +8,10 @@
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
 
+
         <sonar.projectKey>BrendaPenabaz_ProyectoJavaMaven</sonar.projectKey>
         <sonar.organization>brendapenabaz</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
     </properties>
 </project>
