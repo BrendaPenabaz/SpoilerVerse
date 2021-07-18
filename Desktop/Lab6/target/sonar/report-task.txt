@@ -1,7 +1,0 @@
-organization=brendapenabaz
-projectKey=BrendaPenabaz_ProyectoJavaMaven
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.21709
-dashboardUrl=https://sonarcloud.io/dashboard?id=BrendaPenabaz_ProyectoJavaMaven
-ceTaskId=AXqhWn7GrfYeZHroA3Rp
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqhWn7GrfYeZHroA3Rp
